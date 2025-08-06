@@ -1,0 +1,14 @@
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\bin\Debug\net6.0\Swin-Adventure.exe
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\bin\Debug\net6.0\Swin-Adventure.deps.json
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\bin\Debug\net6.0\Swin-Adventure.runtimeconfig.json
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\bin\Debug\net6.0\Swin-Adventure.dll
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\bin\Debug\net6.0\Swin-Adventure.pdb
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\Swin-Adventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\Swin-Adventure.AssemblyInfoInputs.cache
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\Swin-Adventure.AssemblyInfo.cs
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\Swin-Adventure.csproj.CoreCompileInputs.cache
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\Swin-Adventure.dll
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\refint\Swin-Adventure.dll
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\Swin-Adventure.pdb
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\Swin-Adventure.genruntimeconfig.cache
+D:\OneDrive - Swinburne University\Courses\BA-CS\Year 2022\Semester 2\COS20007 - Object Oriented Programming\Code\Swin-Adventure [P, C]\Swin-Adventure\obj\Debug\net6.0\ref\Swin-Adventure.dll

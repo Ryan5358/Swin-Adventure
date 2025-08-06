@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QiFlD/B0Qc=",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive - Swinburne University\\Courses\\BA-CS\\Year 2022\\Semester 2\\COS20007 - Object Oriented Programming\\Code\\Swin-Adventure [P, C]\\Swin-Adventure\\Swin-Adventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.33\\microsoft.netcore.app.runtime.win-x86.6.0.33.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.33\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.33.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.33\\microsoft.aspnetcore.app.runtime.win-x86.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
